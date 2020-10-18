@@ -14,4 +14,4 @@ while i<3:
   else:
     print("Correct pin")
 else:
-  print("End")
+  print()
